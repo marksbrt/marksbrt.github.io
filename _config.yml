@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mark A. Siebert"
-  avatar           : "images/head.jpg"
+  avatar           : "head.jpg"
   bio              : "Graduate Researcher at the University of Virginia, Department of Astronomy"
   location         : "Charlottesville, VA"
   employer         :
